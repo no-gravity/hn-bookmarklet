@@ -1,0 +1,1 @@
+javascript:if (!location.href.match('ycom')) {location.href='https://news.ycombinator.com'};if (typeof e!=='undefined') e.style.background='#c0c0c0';e=Array.from(document.querySelectorAll('.age%20a:not(.seen)')).sort().at(-1);e.style.background='#ff0';e.classList.add('seen');e.scrollIntoView({behavior:"smooth",block:"center",inline:"nearest"});{}
